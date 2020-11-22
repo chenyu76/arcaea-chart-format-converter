@@ -18,3 +18,5 @@ A program that can simply convert arcaea chart (.aff) files.
     - 将地面hold转成skyline
     - 将天空note转成skyline
 - 在歌曲最前面添加一个note
+
+[视频链接](http://www.bilibili.com/video/BV11i4y1L7f2)
