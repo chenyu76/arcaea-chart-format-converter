@@ -6,7 +6,7 @@
 
 A program that can simply convert arcaea chart (.aff) files.
 
-**Note**: This progarm only supports Chinese
+[Download](https://github.com/chenyu76/arcaea-chart-format-converter/releases/download/v1-en/arcaea-chart-format-converter-en-v1.zip)
 
 ### 它可以:
 
